@@ -20,7 +20,6 @@ Run cmake, build project :
 ```
 % ./CryptoCppSandbox 
 
-Hello, World!
 plain text: CBC Mode Test
 key: 84576FF3FD6DE1AE55E94780B2297480
 iv: DAFBA19510992687C98D437CEC3EF24E
