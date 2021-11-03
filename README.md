@@ -12,6 +12,7 @@ If directory "cryptopp" does not exist in ThirdParties directory :
 
 Run cmake, build project :
 ```
+% cmake CMakeLists.txt
 % make
 ```
 
